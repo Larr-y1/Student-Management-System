@@ -1,0 +1,22 @@
+.alert-container{
+    position: fixed;
+    top: o;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+}
+.alert
+{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-color: #a8f0c6;
+    color: #fff;
+    border-radius: 5px;
+    animation: FadeOut 3s forwards;
+}
+@keyframes FadeOut 
+{
+    0%{opacity: 1;}
+    100%{opacity: 0;}
+}
