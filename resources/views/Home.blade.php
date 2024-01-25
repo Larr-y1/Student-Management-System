@@ -144,7 +144,7 @@ ul li a
 <br>
 
 
-    <img  class="main_img" src="storage/pelica.jpg" >
+    <img  class="main_img" src="storage/pexels.webp" >
 
 </div>
 
